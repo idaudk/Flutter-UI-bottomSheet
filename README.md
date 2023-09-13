@@ -2,9 +2,9 @@
 
 A new Flutter project in which bottomsheet kind of turn into full screen and has list view in it.
 
-##ScreenShot
-
-![demo gif](https://github.com/idaudk/Flutter-UI-bottomSheet/assets/67828800/4f9c5f26-4888-4a3f-8c7c-e544bd33dfdb)
+## ScreenShot
+<img src="https://github.com/idaudk/Flutter-UI-bottomSheet/assets/67828800/4f9c5f26-4888-4a3f-8c7c-e544bd33dfdb" alt="Demo GIF" width="300" >
+<!-- ![demo gif](https://github.com/idaudk/Flutter-UI-bottomSheet/assets/67828800/4f9c5f26-4888-4a3f-8c7c-e544bd33dfdb) -->
 
 ## Getting Started
 
