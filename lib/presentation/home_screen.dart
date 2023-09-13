@@ -34,11 +34,8 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   void initState() {
     _scrollController = DraggableScrollableController();
-
     _customScrollController = ScrollController();
-
     _scrollController.addListener(_handleBottomSheetScroll);
-    // WidgetsBinding.instance.addPostFrameCallback((timeStamp) {});
     super.initState();
   }
 
