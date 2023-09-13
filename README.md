@@ -1,6 +1,6 @@
 # Flutter UI | Full screen bottom sheet
 
-A new Flutter project in which bottomsheet kind of turn into full screen and has list view in it.
+A new Flutter project in which bottom sheet kind of turn into full screen if user scrolls it all the way up and this bottom sheet has list view in it.
 
 ## ScreenShot
 <img src="https://github.com/idaudk/Flutter-UI-bottomSheet/assets/67828800/4f9c5f26-4888-4a3f-8c7c-e544bd33dfdb" alt="Demo GIF" width="300" >
